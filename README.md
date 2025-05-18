@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,35 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# 🌦️ Weather Dashboard
+
+A responsive weather history dashboard built with React, Tailwind CSS, and the Open-Meteo Historical Weather API.
+
+## 🚀 Features
+
+- Search weather data by latitude, longitude, and date range
+- Displays daily:
+  - Max/Min/Mean Temperature
+  - Max/Min/Mean Apparent Temperature
+- Fully responsive for desktop, tablet, and mobile
+
+## 📦 Tech Stack
+
+- React
+- Tailwind CSS
+- Open-Meteo API
+- React DatePicker
+
+API Used
+Open-Meteo Historical Weather API
+## 🔧 Setup Instructions
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/weather-dashboard.git
+cd weather-dashboard
+
+# weather-dashboard
+>>>>>>> 0d08ca2b7252b9c4f8a012b6608e0c14be3d73f7
